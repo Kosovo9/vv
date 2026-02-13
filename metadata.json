@@ -1,0 +1,8 @@
+{
+  "name": "CLAWZENEGER 10X - Nuclear Command Center",
+  "description": "A high-end, metallic-themed professional dashboard for managing AI agents, projects, and global operations with integrated Gemini intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
